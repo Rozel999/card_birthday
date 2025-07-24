@@ -1,1 +1,6 @@
-
+git clone https://github.com/Rozel999/card_birthday.git
+cd card_birthday/images
+# Salin/letakkan file foto ke folder images
+git add images/nama_foto.jpg
+git commit -m "Menambahkan foto ke folder images"
+git push origin main
